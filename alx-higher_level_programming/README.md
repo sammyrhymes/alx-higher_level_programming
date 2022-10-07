@@ -39,6 +39,3 @@ All work contained in this project was completed as part of the curriculum for t
     alt="ALX Africa Logo"
   >
   </p>
-
-- Repo added: https://github.com/Aysuarex/alx-higher_level_programming.git
-- Repo added: https://github.com/Aysuarex/alx-higher_level_programming.git
